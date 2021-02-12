@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Oleksandr Olashyn aka **"Dancing With CRM"**. I am developer working mostly with Power Platform and Azure. 
+My name is Oleksandr Olashyn aka **"Dancing With CRM"**. I am Microsoft Biz Apps MVP / MCT / certified D365 Architect working mostly with Power Platform and Azure. 
 
 I love to share my knowledge and for that purpose I created my blog: **[dancingwithcrm.com](https://www.dancingwithcrm.com/)**. Check it out to find a lot of interesting articles about Power Platform, Azure and much more.
 
