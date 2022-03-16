@@ -1,3 +1,5 @@
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 ### Hi there 👋
 
 My name is Oleksandr Olashyn aka **"Dancing With CRM"**. I am Microsoft Biz Apps MVP / MCT / certified D365 Architect working mostly with Power Platform and Azure. 
